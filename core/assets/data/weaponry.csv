@@ -1,0 +1,6 @@
+title,level,type,damage,range
+short sword,1,SWORD,3,1
+mace,1,MACE,3,1
+one-hand axe,1,AXE,3,1
+spear,1,SPEAR,2,2
+bow,1,BOW,2,3
